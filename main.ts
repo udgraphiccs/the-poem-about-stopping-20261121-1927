@@ -13,8 +13,8 @@ what the road was for.
 
 At dusk I took them back,
 not from distrust, but love:
-some stops are mine to make,
-some roads are mine to walk.
+to stop is also staying —
+the road waits where I am.
 `;
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
